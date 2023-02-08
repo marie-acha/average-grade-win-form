@@ -1,0 +1,11 @@
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\bin\Debug\AvgScoresDemo.exe.config
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\bin\Debug\AvgScoresDemo.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\bin\Debug\AvgScoresDemo.pdb
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.csproj.AssemblyReference.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.Form1.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.Properties.Resources.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.csproj.GenerateResource.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.csproj.CoreCompileInputs.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\AvgScoresDemo\AvgScoresDemo\obj\Debug\AvgScoresDemo.pdb
